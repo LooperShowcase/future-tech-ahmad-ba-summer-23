@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    background-color: rgb(39, 39, 216);
+    align-items: center;
+    border-radius: 15px;
+    display: flex;
+    width: 50%
+}
+button
+{
+box-shadow:0px 0px 10px purple ;
+background-color: rgb(7,79,212);
+color :rgb(255 255 255);
+    padding: 10px;
+    border-radius: 15px;
+    transition: 0.3;
+}
+button:hover{
+    background-color: rgb(46 46 188);
+    cursor:pointer;
+}
+
+shrek asisstant{
+    align-items: center;
+}
+
+#webcam-container{
+    box-shadow:0px 0px 10px purple ;
+    color:green
+} 
